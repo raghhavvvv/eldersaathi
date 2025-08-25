@@ -29,7 +29,7 @@ export default function PeaceOfMindPage() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Peace Of Mind</h2>
             <p className="text-lg text-gray-600 leading-relaxed max-w-3xl mx-auto">
-              Experience tranquility through Elder Saathi's Peace of Mind service. We conduct home safety assessments, implement fall-prevention measures, and deploy smart safety solutions. Our commitment is to establish a secure and worry-free environment, ensuring peace of mind for you or your loved ones.
+              Experience tranquility through Elder Saathi&apos;s Peace of Mind service. We conduct home safety assessments, implement fall-prevention measures, and deploy smart safety solutions. Our commitment is to establish a secure and worry-free environment, ensuring peace of mind for you or your loved ones.
             </p>
           </div>
 

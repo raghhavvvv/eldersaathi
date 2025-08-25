@@ -37,7 +37,7 @@ export default function RapidResponsePage() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Rapid Response</h2>
             <p className="text-lg text-gray-600 leading-relaxed max-w-3xl mx-auto">
-              In times of urgent need, Elder Saathi's Rapid Response service offers a comprehensive solution. We meticulously develop immediate family emergency plans, establish a helpline for prompt medical coordination, and maintain real-time communication. Our commitment is to provide swift and effective support, ensuring your peace of mind during unforeseen circumstances.
+              In times of urgent need, Elder Saathi&apos;s Rapid Response service offers a comprehensive solution. We meticulously develop immediate family emergency plans, establish a helpline for prompt medical coordination, and maintain real-time communication. Our commitment is to provide swift and effective support, ensuring your peace of mind during unforeseen circumstances.
             </p>
           </div>
 

@@ -35,7 +35,7 @@ export default function LifestyleAndSocialSupportPage() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Lifestyle And Social Support</h2>
             <p className="text-lg text-gray-600 leading-relaxed max-w-3xl mx-auto">
-              Enjoy an enriched lifestyle with Elder Saathi's Lifestyle and Social Support. We organize events, offer technology guidance, and provide assistance with both online and offline activities. Connect with us for a vibrant and socially engaged senior living experience.
+              Enjoy an enriched lifestyle with Elder Saathi&apos;s Lifestyle and Social Support. We organize events, offer technology guidance, and provide assistance with both online and offline activities. Connect with us for a vibrant and socially engaged senior living experience.
             </p>
           </div>
 
@@ -60,7 +60,7 @@ export default function LifestyleAndSocialSupportPage() {
           <div className="bg-[#E3F2EF] rounded-lg text-center max-w-4xl mx-auto py-12 px-8">
             <h2 className="text-3xl font-bold mb-4">Ready to embark on a journey of enhanced senior wellness?</h2>
             <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
-              Empower Your Loved Ones with Eldersaathi's Holistic Care. Discover Tailored Support That Transforms Senior Living. Contact Us - Your First Step to a More Vibrant Life!
+              Empower Your Loved Ones with Eldersaathi&apos;s Holistic Care. Discover Tailored Support That Transforms Senior Living. Contact Us - Your First Step to a More Vibrant Life!
             </p>
             <Link href="/contact" className="btn btn-primary">
               Get Started Today

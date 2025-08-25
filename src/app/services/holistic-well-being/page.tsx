@@ -37,7 +37,7 @@ export default function HolisticWellBeingPage() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Holistic Well-Being</h2>
             <p className="text-lg text-gray-600 leading-relaxed max-w-3xl mx-auto">
-              Embrace a holistic approach to wellness with Elder Saathi's comprehensive programs. From regular check-ins to personalized nutritional consultations, we curate services that foster a healthy and fulfilling lifestyle. Prioritizing your well-being, we provide support that goes beyond conventional boundaries.
+              Embrace a holistic approach to wellness with Elder Saathi&apos;s comprehensive programs. From regular check-ins to personalized nutritional consultations, we curate services that foster a healthy and fulfilling lifestyle. Prioritizing your well-being, we provide support that goes beyond conventional boundaries.
             </p>
           </div>
 

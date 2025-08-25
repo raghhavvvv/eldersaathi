@@ -9,7 +9,7 @@ const services = [
   {
     iconSrc: "/images/service-rapid-response.svg",
     title: "Rapid Response",
-    description: "Ensure swift action during emergencies with our Rapid Response service. From immediate family emergency plans to real-time communication, we've got your back.",
+    description: "Ensure swift action during emergencies with our Rapid Response service. From immediate family emergency plans to real-time communication, we&apos;ve got your back.",
     href: "/services/rapid-response"
   },
   {
@@ -33,7 +33,7 @@ const services = [
   {
     iconSrc: "/images/service-lifestyle-support.svg",
     title: "Lifestyle and Social Support",
-    description: "Enhance your lifestyle with our support. From event organization to technology guidance, we're here to make your senior years enjoyable and connected.",
+    description: "Enhance your lifestyle with our support. From event organization to technology guidance, we&apos;re here to make your senior years enjoyable and connected.",
     href: "/services/lifestyle-social-support"
   },
   {
@@ -47,7 +47,7 @@ const services = [
 const faqs = [
     { question: "How can I contact ElderSaathi in case of an emergency?", answer: "For urgent matters, reach us immediately through our helpline or contact us via [emergency contact details], ensuring rapid response and support." },
     { question: "What makes ElderSaathi a trustworthy partner in senior care?", answer: "ElderSaathi stands out as a reliable partner due to our commitment to compassionate care, innovative solutions, and personalized attention, ensuring a holistic and supportive experience." },
-    { question: "Can I trust ElderSaathi with my loved one's well-being?", answer: "Absolutely. ElderSaathi's expert team, with leadership in healthcare, technology, and service domains, ensures that your loved one receives the best care and support." },
+    { question: "Can I trust ElderSaathi with my loved one&apos;s well-being?", answer: "Absolutely. ElderSaathi&apos;s expert team, with leadership in healthcare, technology, and service domains, ensures that your loved one receives the best care and support." },
     { question: "Who needs Eldersaathi support?", answer: [ "Individuals living away from their aging parents or family members.", 
         "NRIs seeking reliable and comprehensive support for their parents in India.", 
         "Those with busy lifestyles or geographical constraints making it challenging to manage elder care.", 

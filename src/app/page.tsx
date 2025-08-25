@@ -3,11 +3,9 @@
 import { Hero } from "@/components/Hero";
 import { ServiceCard } from "@/components/ServiceCard";
 import { ContactForm } from "@/components/ContactForm";
-import Image from "next/image";
 import Link from "next/link";
 // Import the icons we need
 import { FaFacebookF, FaInstagram, FaLinkedinIn } from "react-icons/fa";
-import { MdOutlineMail } from "react-icons/md";
 
 const services = [
   { iconSrc: "/images/service-rapid-response.svg", title: "Rapid Response", description: "" },

@@ -35,7 +35,7 @@ export default function DailyLivingSupportPage() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Daily Living Support</h2>
             <p className="text-lg text-gray-600 leading-relaxed max-w-3xl mx-auto">
-              Simplify your daily routine with Elder Saathi's Daily Living Support. From handling bill payments and transportation assistance to managing home and vehicle maintenance, we offer a range of services under one roof. Elevate your daily living experience with our tailored support.
+              Simplify your daily routine with Elder Saathi&apos;s Daily Living Support. From handling bill payments and transportation assistance to managing home and vehicle maintenance, we offer a range of services under one roof. Elevate your daily living experience with our tailored support.
             </p>
           </div>
 
